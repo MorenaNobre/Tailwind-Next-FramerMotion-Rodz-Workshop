@@ -33,7 +33,7 @@
 
 <p>
     No evento do DoWhile da Rocketseat o Guilherme Rodz nos apresentou em um workshop o NextJs, Tailwind e o Framer Motion para o desenvolvimento da aplicação acima.
-    Esse workshop fica em aberto na plataforma da Rocketseat para quem participou do evento até dia 19/fev/2020.
+    Esse workshop fica em aberto na plataforma da Rocketseat para quem participou do evento até dia 19/fev/2021.
     Então bora aproveitar e aprender um pouco das techs que estão sendo mais utilizadas!
 </p>
 
